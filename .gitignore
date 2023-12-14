@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+
+datasets/Lab1/*
+datasets/Charuco/*
+datasets/Charuco2/*
+
 # Distribution / packaging
 .Python
 build/
