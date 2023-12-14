@@ -1,0 +1,7 @@
+Przykłady:
+* https://gist.github.com/naoki-mizuno/c80e909be82434ddae202ff52ea1f80a
+* https://stackoverflow.com/questions/72794462/camera-calibration-using-charuco-boards
+* https://answers.opencv.org/question/98447/camera-calibration-using-charuco-and-python/
+* https://github.com/abakisita/camera_calibration/blob/master/camera_calibration.py
+* https://github.com/kyle-bersani/opencv-examples/blob/master/CalibrationByCharucoBoard/CalibrateCamera.py
+* https://docs.opencv.org/3.4/df/d4a/tutorial_charuco_detection.html
